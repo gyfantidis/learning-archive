@@ -1,0 +1,6 @@
+https://www.quandl.com/api/v3/datasets/BP/OIL_CONSUM_GRC.json?api_key=88YTbKNuDAAsq3-Gzdfm
+            String apiKey = "88YTbKNuDAAsq3-Gzdfm";
+("https://www.quandl.com/api/v3/datasets/BP/OIL_CONSUM_" + iso1 + ".json?api_key=" + apiKey);
+
+("https://www.quandl.com/api/v3/datasets/WWDI/" + iso1 + "_NY_GDP_MKTP_CN.json?api_key=" + apiKey);
+
